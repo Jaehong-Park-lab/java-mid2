@@ -1,8 +1,6 @@
 package collection.link;
 
 
-import collection.array.MyArrayListV1;
-
 public class MyLinkedListV1Main {
 
     public static void main(String[] args) {
